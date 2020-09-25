@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b83133ae-e569-4a62-8d20-be855e62bfbe" name="Default Changelist" comment="commit all to github">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pre-work-phase-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hbxg7duIzGQAe5Hd2xRR1bc9qk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/styles" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/styles" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="https://bootcamp-coders.cnm.edu/~jlittle10/pre-work-phase-2/index.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b83133ae-e569-4a62-8d20-be855e62bfbe" name="Default Changelist" comment="" />
+      <created>1600293700864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600293700864</updated>
+      <workItem from="1600293701944" duration="7460000" />
+      <workItem from="1600928810331" duration="12000" />
+      <workItem from="1600928828100" duration="2000" />
+      <workItem from="1600928840367" duration="3000" />
+      <workItem from="1600960671110" duration="1000" />
+      <workItem from="1600960676420" duration="11000" />
+      <workItem from="1600960694620" duration="17000" />
+      <workItem from="1600960723572" duration="2190000" />
+      <workItem from="1601044715837" duration="1525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit all to github" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit all to github" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="144" key="#Deployment" timestamp="1600293848940">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="348" y="144" key="#Deployment/0.23.1680.956@0.23.1680.956" timestamp="1600293848940" />
+    <state x="332" y="131" key="#SSH_Configurations" timestamp="1600293765096">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="332" y="131" key="#SSH_Configurations/0.23.1680.956@0.23.1680.956" timestamp="1600293765096" />
+    <state x="371" y="150" key="CommitChangelistDialog2" timestamp="1601046169539">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="371" y="150" key="CommitChangelistDialog2/0.23.1680.958@0.23.1680.958" timestamp="1601046169539" />
+    <state x="401" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601045821532">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="401" y="253" key="Vcs.Push.Dialog.v2/0.23.1680.956@0.23.1680.956" timestamp="1601045821532" />
+    <state x="401" y="253" key="Vcs.Push.Dialog.v2/0.23.1680.958@0.23.1680.958" timestamp="1601045667769" />
+    <state x="505" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601046121158">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="505" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.956@0.23.1680.956" timestamp="1601045802228" />
+    <state x="505" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.958@0.23.1680.958" timestamp="1601046121158" />
+  </component>
+</project>
